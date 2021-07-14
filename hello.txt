@@ -1,5 +1,3 @@
-Hello World! Hello Git!
-Hello Git!
 Hello secend charge
 Hello secend commit
 Hello secend charge
